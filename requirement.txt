@@ -1,1 +1,7 @@
+Tools Required - 
+Tensorflow
+Keras
+NumPy
+Matplotlib
+Scikit
 
