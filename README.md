@@ -1,1 +1,2 @@
 # SCPPnet
+![](Images/architecture.png)
