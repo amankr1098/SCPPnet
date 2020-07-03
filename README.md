@@ -10,3 +10,5 @@ SCPPnet is the encoder-decoder architecture with separable convolution with pyra
 - NumPy 
 - Matplotlib
 - scikit-learn 
+
+**Platform of Impletation is _Google Colab GPU_**
