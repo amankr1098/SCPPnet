@@ -1,1 +1,1 @@
-**You will find here the implementation of architecture image and ASPP block image.**
+**Here you fill find the image of architecture and aspp block implementation.**
