@@ -1,1 +1,5 @@
-
+- **Loss - binarycross entropy**
+- **Optimizer- ADAM**
+- **Epochs- 100**
+- **Callback Patiance -10**
+- **Learning rate- 0.001**
